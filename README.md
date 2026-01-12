@@ -2,30 +2,32 @@
 
 
 ## Dibbo Chakraborty
-_MERN Stack Developer_
+_Web Developer (MERN)_
+
+[Portfolio ↗ (dibbockb.vercel.app)](https://dibbockb.vercel.app)
 
 ##  About Me
-I love building clean, responsive interfaces and smooth user experiences.  
-I’m always learning new technologies, improving my code quality, and exploring better ways to ship projects to the web.
+I'm into making minimal looking Web Applications without any noise.
+Always fixing bugs, learning while fixing bugs and drinking coffee while fixing bugs.
 
-## Currently I'm :
-- exploring Next.js and learning how to build SEO friendly apps with it  
-- working on the dashboard for my project
+## Currently :
+- learning Next.js
+- working on a auth based dashboard for [etuition](https://etuition-1e987.web.app/)
 
 
-## Stack I work on
+## Technologies
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,mongodb,firebase,nodejs,git,vscode,npm,vercel&perline=4)
 
-## 🌐 Connect with Me
-
+## Connect
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/dibbockb)  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dibbo/)  [![X](https://skills-icons.vercel.app/api/icons?i=x)](https://x.com/dibbockb) [![Email](https://skillicons.dev/icons?i=gmail)](mailto:divyajitchakraborty@gmail.com)
 
 ## Stats
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=dibbockb&theme=dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)]
+![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=dibbockb&theme=dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)
 
-## 💬 Favorite Quote
-[![Quote](https://raw.githubusercontent.com/dibbockb/dibbockb/refs/heads/main/gihub-quote.jpg)](https://www.goodreads.com/quotes/224637-intelligence-is-not-the-ability-to-store-information-but-to)
+## Favorite Quote
+“Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.”  
+― Antoine de Saint-Exupéry
 
 
 
