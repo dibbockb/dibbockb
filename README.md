@@ -22,7 +22,7 @@ I’m always learning new technologies, improving my code quality, and exploring
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/dibbockb)  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dibbo/)  [![X](https://skills-icons.vercel.app/api/icons?i=x)](https://x.com/dibbockb) [![Email](https://skillicons.dev/icons?i=gmail)](mailto:divyajitchakraborty@gmail.com)
 
 ## Stats
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=dibbockb&theme=dark&hide_border=true)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=dibbockb&theme=dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)]
 
 ## 💬 Favorite Quote
 [![Quote](https://raw.githubusercontent.com/dibbockb/dibbockb/refs/heads/main/gihub-quote.jpg)](https://www.goodreads.com/quotes/224637-intelligence-is-not-the-ability-to-store-information-but-to)
