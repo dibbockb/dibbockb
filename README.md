@@ -2,9 +2,12 @@
 
 
 ## Dibbo Chakraborty
-_Web Developer (MERN)_
+_Web Developer | React & Node)_
 
-[Portfolio ↗ (dibbockb.vercel.app)](https://dibbockb.vercel.app)
+<a href="https://dibbockb.vercel.app" target="_blank" rel="noopener noreferrer">
+  Portfolio ↗ (dibbockb.vercel.app)
+</a>
+
 
 ##  About Me
 I'm into making minimal looking Web Applications without any noise.
@@ -12,7 +15,8 @@ Always fixing bugs, learning while fixing bugs and drinking coffee while fixing 
 
 ## Currently :
 - learning Next.js
-- working on a auth based dashboard for [etuition](https://etuition-1e987.web.app/)
+- working on an auth-based dashboard for <a href="https://etuition-1e987.web.app/" target="_blank" rel="noopener noreferrer">etuition</a>
+
 
 
 ## Technologies
