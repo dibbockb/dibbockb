@@ -2,7 +2,7 @@
 
 
 ## Dibbo Chakraborty
-_Web Developer | React & Node)_
+_Web Developer | React & Node_
 
 <a href="https://dibbockb.vercel.app" target="_blank" rel="noopener noreferrer">
   Portfolio ↗ (dibbockb.vercel.app)
