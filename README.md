@@ -4,8 +4,8 @@
 ## Dibbo Chakraborty
 _Web Developer | React & Node_
 
-<a href="https://dibbockb.vercel.app" target="_blank" rel="noopener noreferrer">
-  Portfolio ↗ (dibbockb.vercel.app)
+<a href="https://dibbockb.com" target="_blank" rel="noopener noreferrer">
+  Portfolio ↗ (dibbockb.com)
 </a>
 
 
