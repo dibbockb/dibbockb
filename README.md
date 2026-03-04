@@ -15,7 +15,7 @@ Always fixing bugs, learning while fixing bugs and drinking coffee while fixing 
 
 ## Currently :
 - learning Next.js
-- working on an auth-based dashboard for <a href="https://etuition-1e987.web.app/" target="_blank" rel="noopener noreferrer">etuition</a>
+- working on an auth-based dashboard for <a href="https://etuition.dibbockb.com/" target="_blank" rel="noopener noreferrer">etuition</a>
 
 
 
