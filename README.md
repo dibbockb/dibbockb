@@ -27,7 +27,7 @@ Always fixing bugs, learning while fixing bugs and drinking coffee while fixing 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/dibbockb)  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dibbo/)  [![X](https://skills-icons.vercel.app/api/icons?i=x)](https://x.com/dibbockb) [![Email](https://skillicons.dev/icons?i=gmail)](mailto:dibbo@dibbockb.com)
 
 ## Stats
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/demo/preview.php?user=dibbockb&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dibbockb&theme=dark&hide_border=true&border_radius=7.6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## Favorite Quote
 “Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.”  
